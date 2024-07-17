@@ -20,6 +20,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
