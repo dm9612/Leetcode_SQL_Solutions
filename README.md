@@ -38,4 +38,12 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
