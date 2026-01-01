@@ -66,4 +66,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
