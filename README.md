@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2058-concatenation-of-array](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
