@@ -64,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +78,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dm9612/Leetcode_SQL_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
